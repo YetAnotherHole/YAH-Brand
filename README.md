@@ -6,6 +6,19 @@ Yet another brand in Yet Another Hole.
  - General Name: Yet Another Hole
  - Short Name: YAH
 
+## Profile
+
+#### What is YAH?
+ - Description: An indie boring studio focus on creating holes.
+ - Founded: 2018-01-08
+ - Website: www.yetanotherhole.com
+
+#### What's in the holes?
+ - Yet nothing inside~
+
+#### How to get in touch?
+ - Email: hi@yetanotherhole.com
+
 ## Designing
 
 #### Philosophy
@@ -17,15 +30,16 @@ Yet another brand in Yet Another Hole.
 <img src="assets/logo-circle.png" width="200">
 
 - Design Source: [YAH-Brand.sketch](assets/YAH-Brand.sketch)
+- Design Bundle: [Press-Kit.zip](assets/Press-Kit.zip)
 
 #### Color
- - Primary Color: Neutrals
- - Accent Color: [Material Design Color Palette](https://material.io/guidelines/style/color.html)
+ - Primary Colors: [Neutrals](https://coolors.co/383838-808080-a6a6a6-bdbdbd-f7f7f7), [Orange Gray / #e3e1dc](http://www.colorhexa.com/e3e1dc)
+ - Brand Color: [Vivid Pink / #e6195d](http://www.colorhexa.com/e6195d)
 
 #### Font
 Due to the consistent typeface that file size of Chinese serif pack is huge, we only use the safe fonts in web context.
 
- - Web Font Family: Helvetica Neue, PingFang SC, Microsoft Yahei
+ - Web Font Family: Melon, PingFang SC, Microsoft Yahei
  - Docs Body Font: Serifs
 
 ## License
